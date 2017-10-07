@@ -9,4 +9,5 @@
 <img src="image.jpg">
 <b>http://minedropperhosting.clanwebsite.com/</b>
 <HR>
-<b>Alternative Downloads</b>
+<b>Alternative Downloads!</b>
+<b>https://github.com/SkyBoxMC/Sploot</b>
