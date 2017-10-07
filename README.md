@@ -1,3 +1,2 @@
-# Sploot MC
 <img src="logo.png">
-<body background="bgimage.jpg">
+<body background="thYET1MXYB.jpg">
