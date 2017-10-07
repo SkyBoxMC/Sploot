@@ -23,4 +23,4 @@ v1.0.0.0 Were Trying Our Best to Make Mod Making Easy for You!
 <HR>
 <b>Go to Our About Page!</b>
 <HR>
-<a href="about.html">
+<a href="Sploot/about.html">
