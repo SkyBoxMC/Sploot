@@ -6,6 +6,7 @@
 <b>Info!</b>
 <p>Releases are Going to Be on MineDropper!</p>
 <HR>
+<img src="image.jpg">
 <b>http://minedropperhosting.clanwebsite.com/</b>
 <HR>
 <b>Alternative Downloads</b>
