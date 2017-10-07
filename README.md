@@ -20,4 +20,7 @@
 and Its Still In Testing! Try Our Alpha!
 v1.0.0.0 Were Trying Our Best to Make Mod Making Easy for You!
 </p>
-
+<HR>
+<b>Go to Our About Page!</b>
+<HR>
+<a href="about.html">
